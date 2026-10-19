@@ -1,0 +1,1 @@
+{"name":"joshua-portfolio","version":"1.0.0","private":true,"scripts":{"dev":"next dev -p 3001","build":"next build","start":"next start -p 3001"},"dependencies":{"next":"^15.5.28","react":"^19.3.1","react-dom":"^19.3.1"}}
